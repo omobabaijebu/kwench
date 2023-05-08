@@ -1,0 +1,47 @@
+.navigationTop{
+    background-color: black;
+    overflow: hidden;
+
+}
+.navigationTop a {
+    float: left;
+    color:red;
+    text-align: right;
+    padding: 5px 50px;
+    text-decoration: red;
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 300;
+}
+
+.navigationTop a.navcompany {
+    background-color: black;
+    color: white;
+    text-decoration: solid;
+    font-size: medium;
+    font-style: normal;
+    font-weight: 800;
+}
+
+.introduction{
+    padding: 10px;
+}
+.introduction h3 {
+    color: aqua;
+    cursor: pointer;
+    color: red;
+    padding: 10px;
+}
+
+.imgsection{
+    padding: 10px;
+}
+.img{
+    padding-right: 100px;
+}
+.newszone{
+    padding: 10px;
+}
+
+
+
